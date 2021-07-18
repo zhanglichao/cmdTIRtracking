@@ -12,6 +12,7 @@ We propose to distill the representation of the TIR modality from the RGB modali
 
 ## Pre-trained models and the annotated Data
 The pre-trained [CMD] and the annotated bounding boxes for the 'detector' can be downloaded in:
+
 [Model](https://pan.baidu.com/s/1xqzuFHuk532rjenQohpL7g) with the password 7cl7.
 
 The two detectors are [FairMOT](https://github.com/ifzhang/FairMOT) and [yoloV5](https://github.com/ultralytics/yoloV5).
