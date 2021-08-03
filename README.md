@@ -1,8 +1,8 @@
 # Unsupervised Cross-Modal Distillation for Thermal Infrared Tracking
 
-Jingxian Sun<sup>\*</sup>, Lichao Zhang<sup>\*</sup>, Yufei Zha<sup>\*</sup>, Abel Gonzalez-Garcia, Peng Zhang, Wei Huang and Yanning Zhang
+Jingxian Sun<sup>\*</sup>, Lichao Zhang<sup>\*</sup>, Yufei Zha, Abel Gonzalez-Garcia, Peng Zhang, Wei Huang and Yanning Zhang
 
-*ACM International Conference on Multimedia (ACMMM), 2021*
+*ACM International Conference on Multimedia (ACM MM), 2021*
 
 ## Citation
 Please cite our paper if you are inspired by this idea (come soon...).
