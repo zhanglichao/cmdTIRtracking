@@ -1,4 +1,4 @@
-# Unsupervised Cross-Modal Distillation for Thermal Infrared Tracking
+## Unsupervised Cross-Modal Distillation for Thermal Infrared Tracking [[paper]](https://arxiv.org/pdf/2108.00187.pdf)
 
 Jingxian Sun<sup>\*</sup>, Lichao Zhang<sup>\*</sup>, Yufei Zha, Abel Gonzalez-Garcia, Peng Zhang, Wei Huang and Yanning Zhang
 
