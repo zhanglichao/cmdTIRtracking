@@ -16,3 +16,5 @@ The pre-trained CMD model and the annotated bounding boxes for the 'detector' ca
 [baiduyun](https://pan.baidu.com/s/1xqzuFHuk532rjenQohpL7g) with the password 7cl7.
 
 The two detectors are [FairMOT](https://github.com/ifzhang/FairMOT) and [yoloV5](https://github.com/ultralytics/yoloV5).
+## Contact
+Please contact zhanglichao@outlook.com for the questions in the repository.
